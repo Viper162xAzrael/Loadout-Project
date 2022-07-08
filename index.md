@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Loadout Project
+All of my Call of Duty: Mobile Loadouts listed in order
 
-You can use the [editor on GitHub](https://github.com/Viper162xAzrael/Loadout-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+__"Get it together soldier! we have a Warzone to win!" - Viper Azrael__
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+#### Where are the Loadouts?
+> All loadouts are in the [GitHub Projects](https://github.com/Viper162xAzrael/Loadout-Project/projects?type=classic) section of this repository
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### How do I contact you?
+> Email me via mirobyalex164@gmail.com for support
 
-```markdown
-Syntax highlighted code block
+#### Where can I post issues about the loadouts?
+> You can go ahead and go to [GitHub Issues](https://github.com/Viper162xAzrael/Loadout-Project/issues) section of this repository
+> GitHub Issues in this case are used for loadout suggestions meaning you can give me advice on how to create better loadouts or swap attachments with other attachments and more
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Viper162xAzrael/Loadout-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Is there a Discord Server?
+> Not currently... but there's quite a few Call of Duty: Mobile Communities. Here's the invite link Intel:
+> 
+> https://discord.gg/codmobile
